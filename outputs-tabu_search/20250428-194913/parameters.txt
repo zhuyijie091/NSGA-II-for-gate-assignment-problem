@@ -1,0 +1,3 @@
+Max Iter: 200
+Tabu Tenure: 10
+Neighbors: 100
